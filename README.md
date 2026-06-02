@@ -1,1 +1,1 @@
-# Task-2-image-classification
+# image-classification-project
